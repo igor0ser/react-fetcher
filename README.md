@@ -27,7 +27,7 @@ const ShowData = ({ data, refresh }) => (...)
 
 const Component1 = () => (
   <Fetcher url="...">
-    ({}) => <ShowData data={data} refresh={refresh} />
+    ({ data, refresh }) => <ShowData data={data} refresh={refresh} />
   </Fetcher>
 )
 
