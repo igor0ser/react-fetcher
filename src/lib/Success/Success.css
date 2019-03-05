@@ -1,9 +1,9 @@
-.react-axios-success{
+.react-fetcher-success{
   padding: 1em;
   text-align: center;
 }
 
-.react-axios-preview {
+.react-fetcher-preview {
   padding: 0.5em;
   border: 1px dashed #777;
   text-align: left;
